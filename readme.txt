@@ -3,7 +3,7 @@
 References
   The references for this product includes the following folders and files:
     Code             Code for Raspberry Pi
-	Processing       Sketches for Interacting with Processing projects
+    Processing       Sketches for Interacting with Processing projects
     Readme.txt       Instructions
     Tutorial.pdf     Tutorial
     Processing.pdf   Tutorial for Interacting with Processing
