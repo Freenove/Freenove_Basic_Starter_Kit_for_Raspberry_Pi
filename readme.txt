@@ -6,7 +6,7 @@ References
 	Processing       Sketches for Interacting with Processing projects
     Readme.txt       Instructions
     Tutorial.pdf     Tutorial
-	Processing.pdf   Tutorial for Interacting with Processing
+    Processing.pdf   Tutorial for Interacting with Processing
 
   You can click the green Clone or download button in this page, then click Download ZIP to get all these files in zip format. If you have any difficulties, you can send email to our support for help.
 
