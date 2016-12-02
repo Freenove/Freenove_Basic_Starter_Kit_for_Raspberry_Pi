@@ -6,12 +6,12 @@ How to download
 
 Files
   The files for this product and their introduction are as follows:
-    Code             Code for Raspberry Pi
-    Processing       Sketches for Interacting with Processing projects
-    Readme.txt       Instructions
-    Tutorial.pdf     Tutorial
-    Processing.pdf   Tutorial for Interacting with Processing
-
+    Code            Code for Raspberry Pi projects using C and Python
+    Processing      Code for Raspberry Pi projects using Java
+    Readme.txt      Instructions
+    Tutorial.pdf    Tutorial using C and Python 
+    Processing.pdf  Tutorial using Java
+	
 Support
   Freenove provides free and quick technical support, including but not limited to:
     Quality problems of products
