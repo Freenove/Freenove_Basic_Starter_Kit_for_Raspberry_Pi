@@ -1,6 +1,6 @@
 
 ######################################################
-Freenove Complete Starter Kit for Raspberry Pi
+Freenove Basic Starter Kit for Raspberry Pi
 ######################################################
 
 .. toctree::
