@@ -49,7 +49,6 @@ Scratch language tutorial
    codes/scratch-lang/4_RGB_LED.rst
    codes/scratch-lang/5_Two_Electronic_Button.rst
    codes/scratch-lang/6_Buzzer.rst
-   codes/scratch-lang/7_Motor.rst
    codes/scratch-lang/8_Four_button_swithches_games.rst
 
 .. toctree::
