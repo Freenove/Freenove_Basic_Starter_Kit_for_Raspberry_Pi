@@ -49,4 +49,9 @@ Java language tutorial
    codes/java-lang/Analog&PWM.rst
    codes/java-lang/RGBLED.rst
    codes/java-lang/Buzzer.rst
+
+.. toctree::
+   :titlesonly:
+   :caption: What's Next?
+   
    codes/java-lang/WhatsNext.rst

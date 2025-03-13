@@ -49,4 +49,9 @@ C language tutorial
    codes/c-lang/Analog & PWM.rst
    codes/c-lang/RGB LED.rst
    codes/c-lang/Buzzer.rst
+
+.. toctree::
+   :titlesonly:
+   :caption: What's Next?
+   
    codes/c-lang/WhatsNext.rst

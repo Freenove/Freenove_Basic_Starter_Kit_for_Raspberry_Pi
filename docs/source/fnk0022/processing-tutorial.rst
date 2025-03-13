@@ -26,4 +26,9 @@ Processing IDE tutorial
 
    codes/processing-lang/SnakeGame.rst
    codes/processing-lang/TetrisGame.rst
+
+.. toctree::
+   :titlesonly:
+   :caption: What's Next?
+   
    codes/processing-lang/WhatsNext.rst
